@@ -52,7 +52,7 @@ nav{
     border: ear-gradient(brown);
     padding: 5%;
     position: absolute;
-    left:20px;
+    left:0px;
     top: 65%;
    border-radius:  15px;
    background: linear-gradient(white,rgb(136, 112, 112));
@@ -107,7 +107,7 @@ nav{
     border-color: linear-gradient(rgb(141, 32, 32),rgb(146, 110, 110));
     padding: 5%;
     position: absolute;
-    left: 0px;
+    right: 0px;
     top: 26%;
     
 }
@@ -120,8 +120,8 @@ nav{
     border: 20px;
 }
 .logo{
-    width: 15%;
-    height: 10%;
+    width: 16%;
+    height: 8%;
     position: absolute;
     left: 170px;
 }
