@@ -28,6 +28,7 @@ nav{
     align-items: center;
     border-radius: 30px;
     top: 15%;
+    left: 20%;
      
 }
 .boxes{
@@ -106,7 +107,7 @@ nav{
     border-color: linear-gradient(rgb(141, 32, 32),rgb(146, 110, 110));
     padding: 5%;
     position: absolute;
-    right: 510px;
+    left: 20px;
     top: 26%;
     
 }
@@ -119,8 +120,8 @@ nav{
     border: 20px;
 }
 .logo{
-    width: 12%;
-    height: 10%;
+    width: 15%;
+    height: 12%;
     position: absolute;
     left: 170px;
 }
