@@ -18,8 +18,8 @@ align-items: center;
 }
 nav{
     background: rgb(231, 181, 181);
-    width: 85px;
-    height: 50px;
+    width: 105px;
+    height: 70px;
     color: hwb(0 100% 0%);
     position: absolute;
     right: 40px;
@@ -28,7 +28,7 @@ nav{
     align-items: center;
     border-radius: 30px;
     top: 15%;
-
+     
 }
 .boxes{
     height: 500px;
@@ -38,7 +38,7 @@ nav{
     bottom: 0;
     display: list-item;
 
-    
+    display: flex;
 
 }
 .boxes:hover{
@@ -73,7 +73,7 @@ nav{
    border: 10px;
    background: linear-gradient(white,rgb(136, 112, 112));
    bottom: 0px;
-   right:0%;
+   left:0%;
 
 
  width: 350px;
@@ -119,7 +119,7 @@ nav{
     border: 20px;
 }
 .logo{
-    width: 5%;
+    width: 12%;
     height: 10%;
     position: absolute;
     left: 170px;
